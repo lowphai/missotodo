@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+My To-Do List - MISSO Techonology Deliverable
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I built this To-Do List application to submit as I am running to be MISSO's Spring 2022 Technology officer.
+This application is a simple to-do list that allows you to add events with a simple input text line,
+mark them as completed as well as delete them when no longer needed.
+The application also allows the user to filter the events for uncompleted events, completed events, and all.
 
-## Available Scripts
+To help with my project, I followed Dev Ed's project to fulfill this project using REACT.
+Likewise, I asked for help from peers to ensure that the application would run with minimal errors.
 
-In the project directory, you can run:
+Unfortunately, I was unable to deploy the application to a Netlify app due to a compile error
+but I was able to start and run the application through the development server for React.
 
-### `npm start`
+INSTALLATION:
+To install the application you must ensure that you have Node.js installed on your device.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Node Installation: https://nodejs.org/en/
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+You must also obtain the files of the application found on this github.
+Download the files as a .zip to an easily accessible folder.
 
-### `npm test`
+Once Node.js and the app files have been installed.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Run your cmd.exe, git bash, or your IDE terminal (terminal of choice) and 'cd' to traverse to a desired folder
 
-### `npm run build`
+Run the command 'npx create-react-app missotodo' to create the React development.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Extract all the missotodo.zip files into your missotodo folder created from the command, you should replace all the different
+files from the newly created missotodo folder with the files in the .zip.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Navigate to the missotodo folder with 'cd' in your chosen terminal.
+Following this you should be able to run the application through your terminal with the command:
+'npm start'
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This should allow the application to run in a development server on your browser!
 
-### `npm run eject`
+Done! Your application should run and you should be able to create a simple to-do list!
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
