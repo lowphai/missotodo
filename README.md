@@ -11,6 +11,10 @@ Likewise, I asked for help from peers to ensure that the application would run w
 Unfortunately, I was unable to deploy the application to a Netlify app due to a compile error
 but I was able to start and run the application through the development server for React.
 
+EDIT: I was able to successfully publish the app to netlify!
+
+Web App Link: https://lucid-wescoff-8feddb.netlify.app/
+
 INSTALLATION:
 To install the application you must ensure that you have Node.js installed on your device.
 
