@@ -25,7 +25,7 @@ Run your cmd.exe, git bash, or your IDE terminal (terminal of choice) and 'cd' t
 
 Run the command 'npx create-react-app missotodo' to create the React development.
 
-Extract all the missotodo.zip files into your missotodo folder created from the command, you should replace all the different
+Extract all the missotodo.zip files into your newly created missotodo folder created from the command, you should replace all the different
 files from the newly created missotodo folder with the files in the .zip.
 
 Navigate to the missotodo folder with 'cd' in your chosen terminal.
